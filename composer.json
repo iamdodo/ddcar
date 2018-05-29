@@ -1,0 +1,22 @@
+{
+    "name": "iamdodo/ddcar",
+    "description": "ddcar composer demo",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dodo",
+            "email": "dodo.tan@ipanelonline.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Buick\\Verano\\": "src/Buick/Verano",
+            "Buick\\ExcelleGt\\": "src/Buick/ExcelleGt"
+        }
+    }
+}
