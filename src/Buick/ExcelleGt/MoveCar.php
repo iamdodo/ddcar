@@ -12,6 +12,6 @@ namespace Buick\ExcelleGt;
 class MoveCar
 {
     function move() {
-        echo 'move my car!';
+        echo 'move my ExcelleGt car!';
     }
 }

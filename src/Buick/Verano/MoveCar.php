@@ -12,6 +12,6 @@ namespace Buick\Verano;
 class MoveCar
 {
     function move() {
-        echo 'move my car!';
+        echo 'move my verano car!';
     }
 }

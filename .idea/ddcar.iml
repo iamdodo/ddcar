@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src/Buick/Verano" isTestSource="false" packagePrefix="Buick\Verano\" />
       <sourceFolder url="file://$MODULE_DIR$/src/Buick/ExcelleGt" isTestSource="false" packagePrefix="Buick\ExcelleGt\" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
